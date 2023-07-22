@@ -1,5 +1,5 @@
 # Car-Insurance_Classification
-
+## Background
 In this competitive business environment, Insurance companies are adopting aggressive marketing strategies for new customer
 acquisition and existing customer retention. To adapt to the changing market landscape, an organization must monitor changes
 in buying patterns and behaviour of the customers based on various demographics, geographies & psychographics profile.
