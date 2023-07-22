@@ -1,1 +1,1 @@
-# Car-Insurance_Logistic-Regression
+# Car-Insurance_Classification
